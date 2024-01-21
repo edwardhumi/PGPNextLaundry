@@ -6,7 +6,6 @@ import { TouchableOpacity } from 'react-native-gesture-handler';
 import * as Location from 'expo-location';
 import { useNavigation } from '@react-navigation/native'
 
-
 const { width, height } = Dimensions.get('window');
 const ASPECT_RATIO = width / height;
 const LATITUDE_DELTA = 0.02;
@@ -196,7 +195,7 @@ export default function Maps() {
                 {showDirections && origin && destination && <MapViewDirections
                     origin={origin}
                     destination={destination}
-                    apikey='AIzaSyDwwCEdKQ_Tn3SYJCwZBzhIXGJM8h-_js0'
+                    apikey = 'NULL' //moved to .env
                     strokeColor="#6644ff"
                     strokeWidth={4}
                     onReady={traceRouteOnReady}
