@@ -1,2 +1,2 @@
-PGPNextLaundry is an Android mobile application designed to organize laundry systems in NUS dormitory, PGP Residences.<br />
+PGPNextLaundry is an Android mobile application designed to organize laundry systems in NUS dormitory, PGP Residences.<br /><br />
 Please kindly view our full [documentation](https://drive.google.com/file/d/1rKdB6AeMZojN5KgvJhI9IOKunuyOqZnb/view?usp=drive_link), [demo](https://drive.google.com/file/d/1gaOttX6L0nP8P-cgZQ88lzfayOGDZFvr/view?usp=drive_link), and [poster](https://drive.google.com/file/d/12qCOfspq8xW11lhMXcDMy0qeltMXfTDg/view?usp=drive_link)! 
